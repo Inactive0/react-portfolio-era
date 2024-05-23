@@ -1,0 +1,167 @@
+{
+  "main": {
+    "firstName": "Ерсұлтан",
+    "name": "Ораз Ерсұлтан",
+    "phone": "+7055422003",
+    "occupation": "Digital Management and Design",
+    "description": "Нархоз университетінде оқимын және 3д программалармен жұмыс істеймін",
+    "image": "dead-space-icon.jpg",
+    "bio": "Менің атым Ораз Ерсұлтан мен Алматы қаласында тұрамын, және кіші кезімнен компьтерлерге қызығам. Ол апаратный жағымен жәнеде программалармен жұмыс.",
+    "contactmessage": "Қосымша ақпарат алу үшін менімен байланысыңыз.",
+    "email": "yersultan.oraz@narxoz.kz",
+    "address": {
+      "city": "Алматы",
+      "state": "KZ"
+    },
+    "website": "https://www.linkedin.com/in/yersultan-oraz-78206b257/",
+    "resumedownload": "https://drive.google.com/file/d/1Oanc-_gU3fyvGVZeqoAIebxjAsBprKdV/view?usp=sharing",
+    "social": [
+      {
+        "name": "vk",
+        "url": "https://vk.com/lxensnx",
+        "className": "fa fa-vk"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yersultan-oraz-78206b257/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/old.ludwig/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Inactive0",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Мен университетте оқытылатын тақырыптар негізінде React.JS арқылы қарапайым жобаларды жасауды жақсы білемін. Оған қоса Unreal Engene 5.3 және Blender бағдарламаларын да жақсы білемін.",
+    "education": [
+      {
+        "school": "Narxoz University",
+        "degree": "Digital Management and Design бакалаврының 3 курсы",
+        "graduated": "Мамыр 2024",
+        "description": "Not graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Narxoz University",
+        "title": "Практика",
+        "years": "Ақпан-Мамыр 2024",
+        "description": "Университетте эдайзер офисінде практика өтілген болатын"
+      },
+      {
+        "company": "---",
+        "title": "Уақытша жұымыс орным жоқ",
+        "years": "Мамыр 2024",
+        "description": "Оған айтылатын ақпарат жоқ"
+      },
+
+      {
+        "company": "---",
+        "title": "Уақытша жұымыс орным жоқ",
+        "years": "Мамыр 2024",
+        "description": "Оған айтылатын ақпарат жоқ"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Unreal Engene",
+        "level": "80%"
+      },
+      {
+        "name": "Blender",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "55%"
+      },
+      {
+        "name": "Figma, Adobe XD, Sketch",
+        "level": "75%"
+      },
+      {
+        "name": "Davinci Resolve",
+        "level": "50%"
+      },
+      {
+        "name": "Computer hardware",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React Graphql Form",
+        "category": "React проекті MockAPI арқылы запростар(Graphql, MockAPI, ReactJS)",
+        "image": "git-screen.png",
+        "url": "https://github.com/Inactive0/react-graphql-form"
+      },
+      {
+        "title": "SSR React App",
+        "category": "React проекті Server-Side Rendering арқылы жұмыс (ReactJS, Server-Side Rendering)",
+        "image": "git-screen.png",
+        "url": "https://github.com/Inactive0/Task9"
+      },
+      {
+        "title": "Unreal Engene 5.2",
+        "category": "Unreal Engene движокғындағы жасалған проекттер (Unreal Engene 5.2, Davinci Resolve)",
+        "image": "Ditails2.jpeg",
+        "url": "https://www.linkedin.com/services/page/b1548532a8b1b1257b/"
+      },
+      {
+        "title": "Unreal Engene 5.2",
+        "category": "Unreal Engene движокғындағы жасалған проекттер (Unreal Engene 5.2, Davinci Resolve)",
+        "image": "Ditails3.jpeg",
+        "url": "https://www.linkedin.com/services/page/b1548532a8b1b1257b/"
+      },
+      {
+        "title": "Blender",
+        "category": "Blender бағдарламасында орындалған үй дизайны (Blender)",
+        "image": "blender_1.jpg",
+        "url": "https://www.linkedin.com/services/page/b1548532a8b1b1257b/"
+      },
+      {
+        "title": "Blender",
+        "category": "Blender бағдарламасында орындалған үй дизайны (Blender)",
+        "image": "Blender_4.jpg",
+        "url": "https://www.linkedin.com/services/page/b1548532a8b1b1257b/"
+      },
+      {
+        "title": "Figma Site Design",
+        "category": "Figma арқылы істелген сайт дизайны (Figma)",
+        "image": "figma-site.png",
+        "url": "https://www.figma.com/proto/d6r32QqxD1XDfMmZ6XsfUP/Project-S?node-id=6-3&starting-point-node-id=6%3A3&t=M3Eby1CJw1GpLS1P-1"
+      },
+      {
+        "title": "Image React App",
+        "category": "React проекті Суреттерді пред-загрузка арқылы оптимизациялау (ReactJS, API)",
+        "image": "git-screen.png",
+        "url": "https://github.com/Inactive0/image-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "3D бағдамаларда жұмыс істеу ол жерде сценаларды құру немесе локацияларды жасау басты және негізгі бағыт",
+        "user": "Өзім"
+      },
+      {
+        "text": "Компьтерлерді құру және комплектующилерді қажет жағдайда ашып жөндеу",
+        "user": "Өзім"
+      },
+      {
+        "text": "ПК жұмыс барысындағы қажетті бағдамаларды орнату, софтпен жұмыс",
+        "user": "Өзім"
+      }
+    ]
+  }
+}
